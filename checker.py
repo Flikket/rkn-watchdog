@@ -19,7 +19,7 @@ with open("log.txt", "w", encoding="utf-8") as file:
     file.write(check_github())
     file.write(check_youtube())
 
-subprocess.run(["git", "add", "."], check=True, text=True, capture_output=True)
-subprocess.run(["git", "commit", "-m", f"Checking at {datetime.now().astimezone().isoformat(timespec="minutes")}"], check=True, text=True, capture_output=True)
-subprocess.run(["git", "push", "-u", "origin", "main"], check=True, text=True, capture_output=True)
+subprocess.run(["git", "add", "."], text=True, capture_output=True)
+subprocess.run(["git", "commit", "-m", f"Checking at {datetime.now().astimezone().isoformat(timespec="minutes")}"], text=True, capture_output=True)
+subprocess.run(["git", "push", "-u", "origin", "main"], text=True, capture_output=True)
 

@@ -2,38 +2,28 @@ Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
 Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=76ms TTL=247
 Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
 Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
 
 Ping statistics for 63.176.0.0:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 75ms, Maximum = 75ms, Average = 75ms
+    Minimum = 75ms, Maximum = 76ms, Average = 75ms
 
 Active code page: 65001
 
 Pinging github.com [140.82.121.4] with 32 bytes of data:
 Reply from 140.82.121.4: bytes=32 time=74ms TTL=52
 Reply from 140.82.121.4: bytes=32 time=74ms TTL=52
-Reply from 140.82.121.4: bytes=32 time=76ms TTL=52
+Reply from 140.82.121.4: bytes=32 time=73ms TTL=52
 Reply from 140.82.121.4: bytes=32 time=75ms TTL=52
 
 Ping statistics for 140.82.121.4:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 74ms, Maximum = 76ms, Average = 74ms
+    Minimum = 73ms, Maximum = 75ms, Average = 74ms
 
 Active code page: 65001
-
-Pinging youtube.com [64.233.164.190] with 32 bytes of data:
-Reply from 64.233.164.190: bytes=32 time=50ms TTL=107
-Reply from 64.233.164.190: bytes=32 time=51ms TTL=107
-Reply from 64.233.164.190: bytes=32 time=51ms TTL=107
-Reply from 64.233.164.190: bytes=32 time=50ms TTL=107
-
-Ping statistics for 64.233.164.190:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+Ping request could not find host youtube.com. Please check the name and try again.
 
