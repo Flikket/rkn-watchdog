@@ -13,16 +13,16 @@ Approximate round trip times in milli-seconds:
 
 Active code page: 65001
 
-Pinging github.com [140.82.121.4] with 32 bytes of data:
-Reply from 140.82.121.4: bytes=32 time=74ms TTL=52
-Reply from 140.82.121.4: bytes=32 time=74ms TTL=52
-Reply from 140.82.121.4: bytes=32 time=73ms TTL=52
-Reply from 140.82.121.4: bytes=32 time=75ms TTL=52
+Pinging discord.com [162.159.135.232] with 32 bytes of data:
+Reply from 162.159.135.232: bytes=32 time=32ms TTL=54
+Reply from 162.159.135.232: bytes=32 time=34ms TTL=54
+Reply from 162.159.135.232: bytes=32 time=33ms TTL=54
+Reply from 162.159.135.232: bytes=32 time=33ms TTL=54
 
-Ping statistics for 140.82.121.4:
+Ping statistics for 162.159.135.232:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 73ms, Maximum = 75ms, Average = 74ms
+    Minimum = 32ms, Maximum = 34ms, Average = 33ms
 
 Active code page: 65001
 Ping request could not find host youtube.com. Please check the name and try again.
