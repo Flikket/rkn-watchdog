@@ -1,29 +1,39 @@
 Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
-Reply from 63.176.0.0: bytes=32 time=134ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=106ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=79ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=221ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
 
 Ping statistics for 63.176.0.0:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 79ms, Maximum = 221ms, Average = 135ms
+    Minimum = 75ms, Maximum = 75ms, Average = 75ms
 
 Active code page: 65001
 
 Pinging discord.com [162.159.138.232] with 32 bytes of data:
 Reply from 162.159.138.232: bytes=32 time=32ms TTL=54
-Reply from 162.159.138.232: bytes=32 time=32ms TTL=54
-Reply from 162.159.138.232: bytes=32 time=167ms TTL=54
-Reply from 162.159.138.232: bytes=32 time=142ms TTL=54
+Reply from 162.159.138.232: bytes=32 time=34ms TTL=54
+Reply from 162.159.138.232: bytes=32 time=33ms TTL=54
+Reply from 162.159.138.232: bytes=32 time=45ms TTL=54
 
 Ping statistics for 162.159.138.232:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 32ms, Maximum = 167ms, Average = 93ms
+    Minimum = 32ms, Maximum = 45ms, Average = 36ms
 
 Active code page: 65001
-Ping request could not find host youtube.com. Please check the name and try again.
+
+Pinging youtube.com [173.194.221.190] with 32 bytes of data:
+Reply from 173.194.221.190: bytes=32 time=53ms TTL=107
+Reply from 173.194.221.190: bytes=32 time=52ms TTL=107
+Reply from 173.194.221.190: bytes=32 time=54ms TTL=107
+Reply from 173.194.221.190: bytes=32 time=51ms TTL=107
+
+Ping statistics for 173.194.221.190:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 51ms, Maximum = 54ms, Average = 52ms
 
