@@ -1,29 +1,39 @@
 Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
-Reply from 63.176.0.0: bytes=32 time=158ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=138ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=111ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=82ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=204ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=180ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=163ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=137ms TTL=247
 
 Ping statistics for 63.176.0.0:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 82ms, Maximum = 158ms, Average = 122ms
+    Minimum = 137ms, Maximum = 204ms, Average = 171ms
 
 Active code page: 65001
 
-Pinging discord.com [162.159.136.232] with 32 bytes of data:
-Reply from 162.159.136.232: bytes=32 time=33ms TTL=54
-Reply from 162.159.136.232: bytes=32 time=32ms TTL=54
-Reply from 162.159.136.232: bytes=32 time=32ms TTL=54
-Reply from 162.159.136.232: bytes=32 time=178ms TTL=54
+Pinging discord.com [162.159.138.232] with 32 bytes of data:
+Reply from 162.159.138.232: bytes=32 time=33ms TTL=54
+Reply from 162.159.138.232: bytes=32 time=179ms TTL=54
+Reply from 162.159.138.232: bytes=32 time=151ms TTL=54
+Reply from 162.159.138.232: bytes=32 time=133ms TTL=54
 
-Ping statistics for 162.159.136.232:
+Ping statistics for 162.159.138.232:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 32ms, Maximum = 178ms, Average = 68ms
+    Minimum = 33ms, Maximum = 179ms, Average = 124ms
 
 Active code page: 65001
-Ping request could not find host youtube.com. Please check the name and try again.
+
+Pinging youtube.com [64.233.164.93] with 32 bytes of data:
+Reply from 64.233.164.93: bytes=32 time=163ms TTL=108
+Reply from 64.233.164.93: bytes=32 time=132ms TTL=108
+Reply from 64.233.164.93: bytes=32 time=148ms TTL=108
+Reply from 64.233.164.93: bytes=32 time=118ms TTL=108
+
+Ping statistics for 64.233.164.93:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 118ms, Maximum = 163ms, Average = 140ms
 
