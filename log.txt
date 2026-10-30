@@ -1,28 +1,28 @@
 Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
-Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=211ms TTL=247
 Reply from 63.176.0.0: bytes=32 time=180ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=155ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=153ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=133ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=106ms TTL=247
 
 Ping statistics for 63.176.0.0:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 75ms, Maximum = 211ms, Average = 155ms
+    Minimum = 106ms, Maximum = 180ms, Average = 143ms
 
 Active code page: 65001
 
-Pinging discord.com [162.159.136.232] with 32 bytes of data:
-Reply from 162.159.136.232: bytes=32 time=31ms TTL=54
-Reply from 162.159.136.232: bytes=32 time=31ms TTL=54
-Reply from 162.159.136.232: bytes=32 time=157ms TTL=54
-Reply from 162.159.136.232: bytes=32 time=158ms TTL=54
+Pinging discord.com [162.159.137.232] with 32 bytes of data:
+Reply from 162.159.137.232: bytes=32 time=142ms TTL=54
+Reply from 162.159.137.232: bytes=32 time=152ms TTL=54
+Reply from 162.159.137.232: bytes=32 time=120ms TTL=54
+Reply from 162.159.137.232: bytes=32 time=92ms TTL=54
 
-Ping statistics for 162.159.136.232:
+Ping statistics for 162.159.137.232:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 31ms, Maximum = 158ms, Average = 94ms
+    Minimum = 92ms, Maximum = 152ms, Average = 126ms
 
 Active code page: 65001
 Ping request could not find host youtube.com. Please check the name and try again.
