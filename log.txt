@@ -1,7 +1,7 @@
 Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
-Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=76ms TTL=247
 Reply from 63.176.0.0: bytes=32 time=74ms TTL=247
 Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
 Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
@@ -9,21 +9,31 @@ Reply from 63.176.0.0: bytes=32 time=75ms TTL=247
 Ping statistics for 63.176.0.0:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 74ms, Maximum = 75ms, Average = 74ms
+    Minimum = 74ms, Maximum = 76ms, Average = 75ms
 
 Active code page: 65001
 
-Pinging discord.com [162.159.135.232] with 32 bytes of data:
-Reply from 162.159.135.232: bytes=32 time=31ms TTL=54
-Reply from 162.159.135.232: bytes=32 time=32ms TTL=54
-Reply from 162.159.135.232: bytes=32 time=35ms TTL=54
-Reply from 162.159.135.232: bytes=32 time=31ms TTL=54
+Pinging discord.com [162.159.137.232] with 32 bytes of data:
+Reply from 162.159.137.232: bytes=32 time=32ms TTL=54
+Reply from 162.159.137.232: bytes=32 time=31ms TTL=54
+Reply from 162.159.137.232: bytes=32 time=32ms TTL=54
+Reply from 162.159.137.232: bytes=32 time=31ms TTL=54
 
-Ping statistics for 162.159.135.232:
+Ping statistics for 162.159.137.232:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 31ms, Maximum = 35ms, Average = 32ms
+    Minimum = 31ms, Maximum = 32ms, Average = 31ms
 
 Active code page: 65001
-Ping request could not find host youtube.com. Please check the name and try again.
+
+Pinging youtube.com [74.125.205.93] with 32 bytes of data:
+Reply from 74.125.205.93: bytes=32 time=64ms TTL=105
+Reply from 74.125.205.93: bytes=32 time=69ms TTL=105
+Reply from 74.125.205.93: bytes=32 time=68ms TTL=105
+Reply from 74.125.205.93: bytes=32 time=72ms TTL=105
+
+Ping statistics for 74.125.205.93:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 64ms, Maximum = 72ms, Average = 68ms
 
