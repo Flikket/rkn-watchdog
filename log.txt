@@ -1,39 +1,39 @@
 Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
-Reply from 63.176.0.0: bytes=32 time=65ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=66ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=66ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=65ms TTL=246
+Request timed out.
+Reply from 63.176.0.0: bytes=32 time=73ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=70ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=74ms TTL=246
 
 Ping statistics for 63.176.0.0:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 65ms, Maximum = 66ms, Average = 65ms
+    Minimum = 70ms, Maximum = 74ms, Average = 72ms
 
 Active code page: 65001
 
-Pinging discord.com [162.159.138.232] with 32 bytes of data:
-Reply from 162.159.138.232: bytes=32 time=32ms TTL=54
-Reply from 162.159.138.232: bytes=32 time=32ms TTL=54
-Reply from 162.159.138.232: bytes=32 time=31ms TTL=54
-Reply from 162.159.138.232: bytes=32 time=32ms TTL=54
+Pinging discord.com [162.159.128.233] with 32 bytes of data:
+Reply from 162.159.128.233: bytes=32 time=45ms TTL=55
+Reply from 162.159.128.233: bytes=32 time=38ms TTL=55
+Reply from 162.159.128.233: bytes=32 time=36ms TTL=55
+Reply from 162.159.128.233: bytes=32 time=32ms TTL=55
 
-Ping statistics for 162.159.138.232:
+Ping statistics for 162.159.128.233:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 31ms, Maximum = 32ms, Average = 31ms
+    Minimum = 32ms, Maximum = 45ms, Average = 37ms
 
 Active code page: 65001
 
-Pinging youtube.com [142.251.142.238] with 32 bytes of data:
-Reply from 142.251.142.238: bytes=32 time=49ms TTL=114
-Reply from 142.251.142.238: bytes=32 time=56ms TTL=114
-Reply from 142.251.142.238: bytes=32 time=53ms TTL=114
-Reply from 142.251.142.238: bytes=32 time=49ms TTL=114
+Pinging youtube.com [142.250.178.78] with 32 bytes of data:
+Reply from 142.250.178.78: bytes=32 time=59ms TTL=112
+Reply from 142.250.178.78: bytes=32 time=58ms TTL=112
+Reply from 142.250.178.78: bytes=32 time=57ms TTL=112
+Reply from 142.250.178.78: bytes=32 time=56ms TTL=112
 
-Ping statistics for 142.251.142.238:
+Ping statistics for 142.250.178.78:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 49ms, Maximum = 56ms, Average = 51ms
+    Minimum = 56ms, Maximum = 59ms, Average = 57ms
 
