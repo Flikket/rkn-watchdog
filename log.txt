@@ -1,39 +1,39 @@
 Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
-Reply from 63.176.0.0: bytes=32 time=74ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=71ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=75ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=77ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=69ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=218ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=190ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=164ms TTL=246
 
 Ping statistics for 63.176.0.0:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 71ms, Maximum = 77ms, Average = 74ms
+    Minimum = 69ms, Maximum = 218ms, Average = 160ms
 
 Active code page: 65001
 
-Pinging discord.com [162.159.135.232] with 32 bytes of data:
-Reply from 162.159.135.232: bytes=32 time=35ms TTL=55
-Reply from 162.159.135.232: bytes=32 time=31ms TTL=55
-Reply from 162.159.135.232: bytes=32 time=34ms TTL=55
-Reply from 162.159.135.232: bytes=32 time=32ms TTL=55
+Pinging discord.com [162.159.138.232] with 32 bytes of data:
+Request timed out.
+Reply from 162.159.138.232: bytes=32 time=37ms TTL=55
+Reply from 162.159.138.232: bytes=32 time=29ms TTL=55
+Reply from 162.159.138.232: bytes=32 time=30ms TTL=55
 
-Ping statistics for 162.159.135.232:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Ping statistics for 162.159.138.232:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 31ms, Maximum = 35ms, Average = 33ms
+    Minimum = 29ms, Maximum = 37ms, Average = 32ms
 
 Active code page: 65001
 
-Pinging youtube.com [142.250.178.78] with 32 bytes of data:
-Reply from 142.250.178.78: bytes=32 time=58ms TTL=112
-Reply from 142.250.178.78: bytes=32 time=58ms TTL=112
-Reply from 142.250.178.78: bytes=32 time=57ms TTL=112
-Reply from 142.250.178.78: bytes=32 time=60ms TTL=112
+Pinging youtube.com [64.233.163.190] with 32 bytes of data:
+Reply from 64.233.163.190: bytes=32 time=62ms TTL=102
+Request timed out.
+Reply from 64.233.163.190: bytes=32 time=173ms TTL=102
+Reply from 64.233.163.190: bytes=32 time=141ms TTL=102
 
-Ping statistics for 142.250.178.78:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Ping statistics for 64.233.163.190:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 57ms, Maximum = 60ms, Average = 58ms
+    Minimum = 62ms, Maximum = 173ms, Average = 125ms
 
