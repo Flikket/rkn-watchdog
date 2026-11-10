@@ -1,39 +1,39 @@
 Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
-Reply from 63.176.0.0: bytes=32 time=69ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=218ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=190ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=164ms TTL=246
+Request timed out.
+Reply from 63.176.0.0: bytes=32 time=173ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=145ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=179ms TTL=246
 
 Ping statistics for 63.176.0.0:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 69ms, Maximum = 218ms, Average = 160ms
+    Minimum = 145ms, Maximum = 179ms, Average = 165ms
 
 Active code page: 65001
 
 Pinging discord.com [162.159.138.232] with 32 bytes of data:
 Request timed out.
+Reply from 162.159.138.232: bytes=32 time=94ms TTL=55
+Reply from 162.159.138.232: bytes=32 time=66ms TTL=55
 Reply from 162.159.138.232: bytes=32 time=37ms TTL=55
-Reply from 162.159.138.232: bytes=32 time=29ms TTL=55
-Reply from 162.159.138.232: bytes=32 time=30ms TTL=55
 
 Ping statistics for 162.159.138.232:
     Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 29ms, Maximum = 37ms, Average = 32ms
+    Minimum = 37ms, Maximum = 94ms, Average = 65ms
 
 Active code page: 65001
 
-Pinging youtube.com [64.233.163.190] with 32 bytes of data:
-Reply from 64.233.163.190: bytes=32 time=62ms TTL=102
+Pinging youtube.com [64.233.161.136] with 32 bytes of data:
+Reply from 64.233.161.136: bytes=32 time=155ms TTL=102
 Request timed out.
-Reply from 64.233.163.190: bytes=32 time=173ms TTL=102
-Reply from 64.233.163.190: bytes=32 time=141ms TTL=102
+Reply from 64.233.161.136: bytes=32 time=183ms TTL=102
+Reply from 64.233.161.136: bytes=32 time=152ms TTL=102
 
-Ping statistics for 64.233.163.190:
+Ping statistics for 64.233.161.136:
     Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 62ms, Maximum = 173ms, Average = 125ms
+    Minimum = 152ms, Maximum = 183ms, Average = 163ms
 
