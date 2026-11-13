@@ -1,39 +1,39 @@
 Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
-Reply from 63.176.0.0: bytes=32 time=182ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=156ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=209ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=183ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=94ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=72ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=54ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=54ms TTL=247
 
 Ping statistics for 63.176.0.0:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 156ms, Maximum = 209ms, Average = 182ms
+    Minimum = 54ms, Maximum = 94ms, Average = 68ms
 
 Active code page: 65001
 
-Pinging discord.com [162.159.137.232] with 32 bytes of data:
-Reply from 162.159.137.232: bytes=32 time=59ms TTL=55
-Reply from 162.159.137.232: bytes=32 time=58ms TTL=55
-Request timed out.
-Reply from 162.159.137.232: bytes=32 time=60ms TTL=55
+Pinging discord.com [162.159.135.232] with 32 bytes of data:
+Reply from 162.159.135.232: bytes=32 time=143ms TTL=55
+Reply from 162.159.135.232: bytes=32 time=182ms TTL=55
+Reply from 162.159.135.232: bytes=32 time=160ms TTL=55
+Reply from 162.159.135.232: bytes=32 time=136ms TTL=55
 
-Ping statistics for 162.159.137.232:
-    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 58ms, Maximum = 60ms, Average = 59ms
-
-Active code page: 65001
-
-Pinging youtube.com [142.250.178.78] with 32 bytes of data:
-Reply from 142.250.178.78: bytes=32 time=53ms TTL=113
-Reply from 142.250.178.78: bytes=32 time=52ms TTL=113
-Reply from 142.250.178.78: bytes=32 time=195ms TTL=113
-Reply from 142.250.178.78: bytes=32 time=167ms TTL=113
-
-Ping statistics for 142.250.178.78:
+Ping statistics for 162.159.135.232:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 52ms, Maximum = 195ms, Average = 116ms
+    Minimum = 136ms, Maximum = 182ms, Average = 155ms
+
+Active code page: 65001
+
+Pinging youtube.com [142.250.154.91] with 32 bytes of data:
+Reply from 142.250.154.91: bytes=32 time=70ms TTL=110
+Reply from 142.250.154.91: bytes=32 time=214ms TTL=110
+Reply from 142.250.154.91: bytes=32 time=194ms TTL=110
+Reply from 142.250.154.91: bytes=32 time=173ms TTL=110
+
+Ping statistics for 142.250.154.91:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 70ms, Maximum = 214ms, Average = 162ms
 
