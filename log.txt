@@ -1,22 +1,22 @@
 Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
-Reply from 63.176.0.0: bytes=32 time=68ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=68ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=69ms TTL=247
-Reply from 63.176.0.0: bytes=32 time=69ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=74ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=73ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=73ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=73ms TTL=246
 
 Ping statistics for 63.176.0.0:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 68ms, Maximum = 69ms, Average = 68ms
+    Minimum = 73ms, Maximum = 74ms, Average = 73ms
 
 Active code page: 65001
 
 Pinging discord.com [162.159.138.232] with 32 bytes of data:
+Reply from 162.159.138.232: bytes=32 time=29ms TTL=54
+Reply from 162.159.138.232: bytes=32 time=29ms TTL=54
 Reply from 162.159.138.232: bytes=32 time=28ms TTL=54
-Reply from 162.159.138.232: bytes=32 time=29ms TTL=54
-Reply from 162.159.138.232: bytes=32 time=29ms TTL=54
 Reply from 162.159.138.232: bytes=32 time=29ms TTL=54
 
 Ping statistics for 162.159.138.232:
@@ -26,12 +26,14 @@ Approximate round trip times in milli-seconds:
 
 Active code page: 65001
 
-Pinging youtube.com [64.233.161.93] with 32 bytes of data:
-Request timed out.
-Request timed out.
-Request timed out.
-Request timed out.
+Pinging youtube.com [142.250.178.78] with 32 bytes of data:
+Reply from 142.250.178.78: bytes=32 time=54ms TTL=113
+Reply from 142.250.178.78: bytes=32 time=56ms TTL=113
+Reply from 142.250.178.78: bytes=32 time=56ms TTL=113
+Reply from 142.250.178.78: bytes=32 time=53ms TTL=113
 
-Ping statistics for 64.233.161.93:
-    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+Ping statistics for 142.250.178.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 53ms, Maximum = 56ms, Average = 54ms
 
