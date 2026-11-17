@@ -1,39 +1,39 @@
 Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
-Reply from 63.176.0.0: bytes=32 time=74ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=73ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=73ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=73ms TTL=246
+Request timed out.
+Request timed out.
+Reply from 63.176.0.0: bytes=32 time=348ms TTL=246
+Request timed out.
 
 Ping statistics for 63.176.0.0:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+    Packets: Sent = 4, Received = 1, Lost = 3 (75% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 73ms, Maximum = 74ms, Average = 73ms
+    Minimum = 348ms, Maximum = 348ms, Average = 348ms
 
 Active code page: 65001
 
-Pinging discord.com [162.159.138.232] with 32 bytes of data:
-Reply from 162.159.138.232: bytes=32 time=29ms TTL=54
-Reply from 162.159.138.232: bytes=32 time=29ms TTL=54
-Reply from 162.159.138.232: bytes=32 time=28ms TTL=54
-Reply from 162.159.138.232: bytes=32 time=29ms TTL=54
+Pinging discord.com [162.159.128.233] with 32 bytes of data:
+Request timed out.
+Request timed out.
+Reply from 162.159.128.233: bytes=32 time=320ms TTL=55
+Reply from 162.159.128.233: bytes=32 time=300ms TTL=55
 
-Ping statistics for 162.159.138.232:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Ping statistics for 162.159.128.233:
+    Packets: Sent = 4, Received = 2, Lost = 2 (50% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 28ms, Maximum = 29ms, Average = 28ms
+    Minimum = 300ms, Maximum = 320ms, Average = 310ms
 
 Active code page: 65001
 
 Pinging youtube.com [142.250.178.78] with 32 bytes of data:
-Reply from 142.250.178.78: bytes=32 time=54ms TTL=113
-Reply from 142.250.178.78: bytes=32 time=56ms TTL=113
-Reply from 142.250.178.78: bytes=32 time=56ms TTL=113
-Reply from 142.250.178.78: bytes=32 time=53ms TTL=113
+Request timed out.
+Request timed out.
+Request timed out.
+Reply from 142.250.178.78: bytes=32 time=310ms TTL=114
 
 Ping statistics for 142.250.178.78:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+    Packets: Sent = 4, Received = 1, Lost = 3 (75% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 53ms, Maximum = 56ms, Average = 54ms
+    Minimum = 310ms, Maximum = 310ms, Average = 310ms
 
