@@ -1,39 +1,39 @@
 Active code page: 65001
 
 Pinging 63.176.0.0 with 32 bytes of data:
-Reply from 63.176.0.0: bytes=32 time=69ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=71ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=71ms TTL=246
-Reply from 63.176.0.0: bytes=32 time=70ms TTL=246
+Reply from 63.176.0.0: bytes=32 time=67ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=69ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=87ms TTL=247
+Reply from 63.176.0.0: bytes=32 time=81ms TTL=247
 
 Ping statistics for 63.176.0.0:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 69ms, Maximum = 71ms, Average = 70ms
+    Minimum = 67ms, Maximum = 87ms, Average = 76ms
 
 Active code page: 65001
 
 Pinging discord.com [162.159.128.233] with 32 bytes of data:
+Reply from 162.159.128.233: bytes=32 time=28ms TTL=54
 Reply from 162.159.128.233: bytes=32 time=29ms TTL=54
-Reply from 162.159.128.233: bytes=32 time=29ms TTL=54
-Reply from 162.159.128.233: bytes=32 time=29ms TTL=54
-Reply from 162.159.128.233: bytes=32 time=29ms TTL=54
+Reply from 162.159.128.233: bytes=32 time=43ms TTL=54
+Reply from 162.159.128.233: bytes=32 time=28ms TTL=54
 
 Ping statistics for 162.159.128.233:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 29ms, Maximum = 29ms, Average = 29ms
+    Minimum = 28ms, Maximum = 43ms, Average = 32ms
 
 Active code page: 65001
 
-Pinging youtube.com [64.233.165.91] with 32 bytes of data:
-Reply from 64.233.165.91: bytes=32 time=150ms TTL=108
-Reply from 64.233.165.91: bytes=32 time=140ms TTL=108
-Reply from 64.233.165.91: bytes=32 time=137ms TTL=108
-Reply from 64.233.165.91: bytes=32 time=139ms TTL=108
+Pinging youtube.com [74.125.131.136] with 32 bytes of data:
+Reply from 74.125.131.136: bytes=32 time=58ms TTL=104
+Reply from 74.125.131.136: bytes=32 time=53ms TTL=104
+Reply from 74.125.131.136: bytes=32 time=50ms TTL=104
+Reply from 74.125.131.136: bytes=32 time=52ms TTL=104
 
-Ping statistics for 64.233.165.91:
+Ping statistics for 74.125.131.136:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 137ms, Maximum = 150ms, Average = 141ms
+    Minimum = 50ms, Maximum = 58ms, Average = 53ms
 
